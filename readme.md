@@ -1,4 +1,4 @@
-<p align="center"><a href="http://josephtaylorparrish.com" target="_blank"><img width="150"src="https://feelgrafix.com/data_images/out/27/956607-tomato.jpg"></a></p>
+<p align="center"><a href="http://josephtaylorparrish.com" target="_blank"><img width="150"src="http://vectorboom.com/TUTORIALS/Tomato/0.jpg"></a></p>
 
 <p align="center">
 <a href="www.josephtaylorparrish.com">www.JosephTaylorParrish.com</a>
