@@ -14,3 +14,5 @@
 Route::get('/', function () {
     return view('homepage');
 });
+
+Route::get('/home', 'HomeController@index');
