@@ -1,1 +1,4 @@
 vendor/**
+/public/img
+.env
+.env.example
