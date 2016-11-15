@@ -8,7 +8,7 @@
         <title>Taylor Parrish</title>
         
         <!-- Favicon -->
-        <link rel="shortcut icon" href="{{ asset('img/favicon.png') }}" >
+        <link rel="shortcut icon" href="{{ asset('favicon.png') }}" >
         
         <!-- Bootstrap Core CSS -->
         <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
@@ -78,7 +78,7 @@
                                 <div class="intro-text">
                                     <span class="name">Joseph Taylor Parrish</span>
                                     <hr class="star-light">
-                                    <span class="skills">Researcher - Developer - Entrepreneur</span>
+                                    <span class="skills"> Developer - Researcher - Dreamer</span>
                                 </div>
                             </div>
                         </div>
@@ -94,18 +94,7 @@
                                 <hr class="star-primary">
                             </div>
                         </div>
-                        <div class="row">
-                            <div class="col-sm-4 portfolio-item">
-                                <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
-                                    <div class="caption">
-                                        <div class="caption-content">
-                                            <i class="fa fa-search-plus fa-3x"></i>
-                                        </div>
-                                    </div>
-                                    <img src="img/portfolio/cabin.png" class="img-responsive" alt="">
-                                </a>
-                            </div>
-                            <div class="col-sm-4 portfolio-item">
+                            <div class="col-sm-12 portfolio-item">
                                 <a href="#taylorslistModal" class="portfolio-link" data-toggle="modal">
                                     <div class="caption">
                                         <div class="caption-content">
@@ -113,16 +102,6 @@
                                         </div>
                                     </div>
                                     <img style="width:360px; height:260px;" src="img/portfolio/taylorslist.png" class="img-responsive" alt="">
-                                </a>
-                            </div>
-                            <div class="col-sm-4 portfolio-item">
-                                <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
-                                    <div class="caption">
-                                        <div class="caption-content">
-                                            <i class="fa fa-search-plus fa-3x"></i>
-                                        </div>
-                                    </div>
-                                    <img src="img/portfolio/circus.png" class="img-responsive" alt="">
                                 </a>
                             </div>
                         </div>
@@ -141,10 +120,10 @@
                         <div class="row">
                             <div class="col-lg-4 col-lg-offset-2">
                                 <p>My name is Taylor Parrish and I am a recent graduate from Auburn University with a Bachelors of Science in Software Engineering.
-                                I have hands on experience with Mobile development, Full-Stack Web development and SQL development. </p>
+                                I have hands on experience with Android Mobile development, Full-Stack Web development and SQL development. </p>
                             </div>
                             <div class="col-lg-4">
-                                <p>My passions are Full-Stack Web Development using HTML, PHP, SQL and Javascript.
+                                <p>My passion is in Full-Stack Web Development using HTML, PHP, SQL and Javascript.
                                 I really enjoy developing with the Laravel framework (MVC), Bootstrap and SaSS.
                                 As well as contemplating what the next big software need will be.
                                 In my free time I enjoy watching movies of just about any genre and time.
@@ -209,45 +188,11 @@
             
                 <!-- Footer -->
                 <footer class="text-center">
-                    <div class="footer-above">
-                        <div class="container">
-                            <div class="row">
-                                <div class="footer-col col-md-4">
-                                    <h3>Location</h3>
-                                    <p>Dothan, Alabama 36303</p>
-                                </div>
-                                <div class="footer-col col-md-4">
-                                    <h3>Around the Web</h3>
-                                    <ul class="list-inline">
-                                        <li>
-                                            <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-facebook"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-google-plus"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-twitter"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-linkedin"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="#" class="btn-social btn-outline"><i class="fa fa-fw fa-dribbble"></i></a>
-                                        </li>
-                                    </ul>
-                                </div>
-                                <div class="footer-col col-md-4">
-                                    <h3>About Freelancer</h3>
-                                    <p>Freelance is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
                     <div class="footer-below">
                         <div class="container">
                             <div class="row">
                                 <div class="col-lg-12">
-                                    Copyright &copy; josephtaylorparrish.com 2016
+                                    Copyright &copy; 2016
                                 </div>
                             </div>
                         </div>
